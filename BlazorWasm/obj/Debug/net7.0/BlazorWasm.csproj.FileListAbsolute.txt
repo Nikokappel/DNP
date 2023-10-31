@@ -839,3 +839,4 @@ C:\Users\nikok\RiderProjects\DNP\BlazorWasm\obj\Debug\net7.0\BlazorWasm.dll
 C:\Users\nikok\RiderProjects\DNP\BlazorWasm\obj\Debug\net7.0\refint\BlazorWasm.dll
 C:\Users\nikok\RiderProjects\DNP\BlazorWasm\obj\Debug\net7.0\BlazorWasm.pdb
 C:\Users\nikok\RiderProjects\DNP\BlazorWasm\obj\Debug\net7.0\ref\BlazorWasm.dll
+C:\Users\nikok\RiderProjects\DNP\BlazorWasm\obj\Debug\net7.0\scopedcss\Pages\LoginButtons.razor.rz.scp.css

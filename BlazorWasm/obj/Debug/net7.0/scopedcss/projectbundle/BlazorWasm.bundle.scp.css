@@ -25,6 +25,11 @@
     transform: scale(1.1);
     box-shadow: 0 2px 10px 2px #3f3f3f;
 }
+/* /Pages/LoginButtons.razor.rz.scp.css */
+.icon[b-lhd5b4yoyf] {
+    width: 30px;
+    cursor: pointer;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-2ar46ifnr2] {
     position: relative;
