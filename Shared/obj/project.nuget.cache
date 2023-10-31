@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "bWC6R/2ZTsvAX7FVN/hfEW1s07k0Y07CMY4J5EkJxhXa3Th2i+a7c27gv4WkHf7qjMMQX70w14Tq8yeLsxHeuQ==",
+  "dgSpecHash": "pBnJFPRxiWm0LI8Ej4NCKkfS/xnDAWLxxYdtugs8U1rEQ9Mq6mgtO5/YCv0gswLfHC6Y6sHA5rMwCT/mEvJo2w==",
   "success": true,
   "projectFilePath": "C:\\Users\\nikok\\RiderProjects\\DNP\\Shared\\Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nikok\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.13\\microsoft.aspnetcore.authorization.7.0.13.nupkg.sha512",
+    "C:\\Users\\nikok\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.13\\microsoft.aspnetcore.metadata.7.0.13.nupkg.sha512",
+    "C:\\Users\\nikok\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\nikok\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\nikok\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\nikok\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
